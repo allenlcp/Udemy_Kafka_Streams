@@ -1,0 +1,3 @@
+[submodule "kafka-streams-course"]
+	path = kafka-streams-course
+	url = https://github.com/simplesteph/kafka-streams-course.git
