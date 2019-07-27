@@ -2,7 +2,7 @@
 
 ## Terminology
 
-<img width="500" alt="Topics, partitions and offsets" src="https://github.com/allenlcp/Udemy_Kafka_Streams/blob/master/resources/images/img_0001.png">
+<img width="300" alt="Topics, partitions and offsets" src="https://github.com/allenlcp/Udemy_Kafka_Streams/blob/master/resources/images/img_0001.png">
 
 **Stream** - is a sequence of immutable data records, that fully ordered, can be replayed, and is fault tolerant (think of a Kafka Topic as a parallel)
 
@@ -10,7 +10,7 @@
 
 **Topology** - is a graph of processors chained together by streams
 
-<img width="500" alt="Topics, partitions and offsets" src="https://github.com/allenlcp/Udemy_Kafka_Streams/blob/master/resources/images/img_0002.png">
+<img width="300" alt="Topics, partitions and offsets" src="https://github.com/allenlcp/Udemy_Kafka_Streams/blob/master/resources/images/img_0002.png">
 
 **Source Processor** - is a special processor that takes its data directly from a Kafka Topic.  It has no predecessors in a topology, and doesn't transform the data.
 
