@@ -15,5 +15,3 @@
 **Source Processor** - is a special processor that takes its data directly from a Kafka Topic.  It has no predecessors in a topology, and doesn't transform the data.
 
 **Sink Processor** - is a processor that does not have children, it sends the stream data directly to a Kafka topic
-
-## 
